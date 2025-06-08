@@ -1,7 +1,7 @@
 # netbox_inventory.yml
 plugin: netbox
-api_endpoint: http://192.168.127.37:8000
-token: 9d4ba55384e148382b29ffd39fc6ec733a65345a
+api_endpoint: http://192.168.128.129:8000
+token: ec15d4b8e2363b7289e31cee1e1ce85913ebaa2f
 validate_certs: false
 
 group_by:
